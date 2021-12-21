@@ -10,7 +10,6 @@ import java.util.logging.Logger;
 /*
 Veri tabanına bağlanmak için..
  */
-
 public class DbConnection {
 
     /*
