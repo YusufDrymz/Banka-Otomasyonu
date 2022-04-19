@@ -13,7 +13,7 @@ Başvuru Ekranı:
 - 10 haneli cep telefon numarası,
 - Müşterinin belirlediği güvenlik sorusu ve cevabıiçerir.
 
-![image](https://user-images.githubusercontent.com/77965724/163953677-fd824aac-56b9-4133-b1a8-f295f30bbe19.png)
+![image](https://user-images.githubusercontent.com/77965724/163954264-e31e658b-411e-4ad3-a3fb-a911e6928a9a.png)
 
 Hesap Ekranı:
 
@@ -24,4 +24,4 @@ Hesap Ekranı:
 - Fatura ödemelerini,
 - Hesap ayarları ekranına yönlendiren, ayarlar ikonu içerir.
 
-![image](https://user-images.githubusercontent.com/77965724/163954080-10d9e49e-2367-47c3-8b93-d4c419133354.png)
+![image](https://user-images.githubusercontent.com/77965724/163954252-242587e9-fa41-4731-ae8b-52fc71b9d275.png)
